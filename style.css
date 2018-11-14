@@ -1,0 +1,122 @@
+
+.navbar {
+    background-color: rgb(32, 32, 32);
+    position: absolute;
+    height: 5%;
+    width: 100%;
+    left: 0%;
+    top: 0%;
+    display: flex;
+}
+#sidebar {
+    color: white;
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;
+    float: right;
+    padding-left: 20px;
+    margin-right: 100px;
+    vertical-align: center;
+    width: 20%;
+}
+#under {
+    border-top: 0.5px solid rgba(211, 211, 211, 0.247);
+    width: 1280px;
+    margin-top: 3%;
+    margin-left: 5%;
+    color: white;
+    vertical-align: middle;
+    
+}
+#video {
+    margin-top: 4%;
+    margin-left: 5%;
+    padding-bottom: 2px;
+    float: left;
+}
+body {
+    background-color: rgb(18, 18, 18);
+    font-family: 'Roboto', sans-serif;
+}
+#u2 {
+    
+    padding: 11px;
+}
+#searchbar {
+    
+    display: flex;
+    margin-left: 25%;
+    margin-top: 6px;
+    width: 600px;
+    overflow: hidden;
+    height: 28px;
+    background-color: rgb(26, 25, 25);
+    border: 0.5px solid rgba(85, 84, 84, 0.705);
+    color: white;
+    padding-left: 10px;
+    font-size: 13pt;
+}
+#searchicon {
+    padding-top: 0;
+    margin: 0;
+    margin-top: 6px;
+}
+#channels {
+    float: right;
+    margin-top: 7px;
+    width: 40px;
+    border-left: 550px solid transparent;
+}
+#title {
+    padding-top: 15px;
+    margin: 0;
+    border: 0;
+    color: white;
+    font-size: 14pt;
+    text-decoration: none;
+}
+#views {
+    font-size: 12pt;
+    padding-top: 8px;
+    margin: 0;
+    color: grey;
+    opacity: 0.9;
+    width: 1280px;
+    border-bottom: 0.5px solid rgba(211, 211, 211, 0.247);
+    padding-bottom: 10px;
+}
+#chillhop {
+    margin-left: 170px; 
+    color: white;
+}
+#comments {
+    border-top: 0.5px solid rgba(211, 211, 211, 0.247);
+    width: 1280px;
+    margin-top: 3%;
+    margin-left: 5%;
+    color: white;
+    padding-top: 10px;
+}
+#commentbar {
+    clear: left;
+    float: right;
+    border-bottom: 1px solid lightgrey !important;
+    background-color: rgb(18, 18, 18);
+    color: rgb(126, 125, 125);
+    overflow: hidden;
+    height: 30px;
+    border: 0;
+    width: 1200px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-left: 10px;
+}
+.graytext {
+    color: grey;
+    font-size: 10pt;
+    
+}
+.bordergray {
+    padding-bottom: 8px;
+    border-bottom: 0.5px solid rgba(211, 211, 211, 0.247);
+}
